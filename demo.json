@@ -1,0 +1,132 @@
+[
+  {
+    "timestamp": "2026-10-19T14:00:00Z",
+    "event_id": 4624,
+    "host": "LAB-PC-01",
+    "user": "casey",
+    "domain": "LAB",
+    "source_ip": "192.0.2.10",
+    "record_id": "1"
+  },
+  {
+    "timestamp": "2026-10-19T14:01:00Z",
+    "event_id": 4624,
+    "host": "LAB-PC-01",
+    "user": "casey",
+    "domain": "LAB",
+    "source_ip": "192.0.2.10",
+    "record_id": "2"
+  },
+  {
+    "timestamp": "2026-10-19T14:02:00Z",
+    "event_id": 4624,
+    "host": "LAB-PC-01",
+    "user": "casey",
+    "domain": "LAB",
+    "source_ip": "192.0.2.10",
+    "record_id": "3"
+  },
+  {
+    "timestamp": "2026-10-19T14:03:00Z",
+    "event_id": 4624,
+    "host": "LAB-PC-01",
+    "user": "casey",
+    "domain": "LAB",
+    "source_ip": "192.0.2.10",
+    "record_id": "4"
+  },
+  {
+    "timestamp": "2026-10-19T14:04:00Z",
+    "event_id": 4624,
+    "host": "LAB-PC-01",
+    "user": "casey",
+    "domain": "LAB",
+    "source_ip": "192.0.2.10",
+    "record_id": "5"
+  },
+  {
+    "timestamp": "2026-10-19T14:10:00Z",
+    "event_id": 4625,
+    "host": "LAB-PC-01",
+    "user": "alex",
+    "domain": "LAB",
+    "source_ip": "192.0.2.25",
+    "record_id": "6"
+  },
+  {
+    "timestamp": "2026-10-19T14:11:00Z",
+    "event_id": 4625,
+    "host": "LAB-PC-01",
+    "user": "alex",
+    "domain": "LAB",
+    "source_ip": "192.0.2.25",
+    "record_id": "7"
+  },
+  {
+    "timestamp": "2026-10-19T14:12:00Z",
+    "event_id": 4625,
+    "host": "LAB-PC-01",
+    "user": "alex",
+    "domain": "LAB",
+    "source_ip": "192.0.2.25",
+    "record_id": "8"
+  },
+  {
+    "timestamp": "2026-10-19T14:13:00Z",
+    "event_id": 4625,
+    "host": "LAB-PC-01",
+    "user": "alex",
+    "domain": "LAB",
+    "source_ip": "192.0.2.25",
+    "record_id": "9"
+  },
+  {
+    "timestamp": "2026-10-19T14:14:00Z",
+    "event_id": 4625,
+    "host": "LAB-PC-01",
+    "user": "alex",
+    "domain": "LAB",
+    "source_ip": "192.0.2.25",
+    "record_id": "10"
+  },
+  {
+    "timestamp": "2026-10-19T14:15:00Z",
+    "event_id": 4624,
+    "host": "LAB-PC-01",
+    "user": "alex",
+    "domain": "LAB",
+    "source_ip": "192.0.2.25",
+    "record_id": "11"
+  },
+  {
+    "timestamp": "2026-10-19T14:20:00Z",
+    "event_id": 4720,
+    "host": "LAB-PC-01",
+    "user": "svc_backup",
+    "domain": "LAB",
+    "source_ip": "",
+    "record_id": "12",
+    "actor": "labadmin"
+  },
+  {
+    "timestamp": "2026-10-19T14:21:00Z",
+    "event_id": 4732,
+    "host": "LAB-PC-01",
+    "user": "Administrators",
+    "domain": "LAB",
+    "source_ip": "",
+    "record_id": "13",
+    "group_sid": "S-1-5-32-544",
+    "member": "LAB\\svc_backup",
+    "actor": "labadmin"
+  },
+  {
+    "timestamp": "2026-10-19T14:22:00Z",
+    "event_id": 1102,
+    "host": "LAB-PC-01",
+    "user": "labadmin",
+    "domain": "LAB",
+    "source_ip": "",
+    "record_id": "14"
+  }
+]
